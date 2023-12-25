@@ -44,6 +44,22 @@ tips on how I should plan this?
 
 3) Can you show me any Youtube videos of people who have done this before?
 
+4) I do like the first video, can you summarize the key points and hightlight any historical information I might look during my hike?
+
+You can use regenerate, if you don't like the current response.
+
+
+* The multimodal model in action
+--------------------------------
+https://console.cloud.google.com/vertex-ai/generative/multimodal/create/text?project=tidy-muse-409213
+
+ai.google.dev
+
+* Building applications with Gemini
+-----------------------------------
+Google AI Studio --> Can Generate some code. (cURL, JavaScript, Python, Android (Kotlin), Swift.
+
+Multimodality is really going to change the way that we interact with AI systems.
 
 
 
