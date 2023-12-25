@@ -1,0 +1,82 @@
+# 1. Advanced Data Analysis
+---------------------------
+
+* What is multimodal prompting?
+-------------------------------
+Gemini --> text, audio, images, code, video.
+
+With multimodality, the conversations you are having with AIs are fundamentally going to change.
+
+* Exploring Gemini's roadmap
+----------------------------
+- Processes diferent types of inputs simultaneously.
+
+- It can understand audio natively.
+
+- Can output responses with text and images.
+
+- Three versions of Gemini: Nano, Pro, Ultra.
+
+- Support of a 32k parameter context length.
+
+- Nano --> Works natively on devices
+
+	- Nano 1: Lower Memory Devices 1.8 Billion Parameters.
+
+	- Nano 2: Higher Memory Devices 3.25 Billion Parameters.
+
+- Pro --> Works with Bard
+	
+	- Text Only.
+
+	- Multimodal.
+
+* Testing Google Gemini in Google Bard
+--------------------------------------
+www.bard.google.com
+
+Example --> Series of Prompts with Bard
+-------	    ---------------------------
+1) You are an expert hiker and experienced tour guide. I'm going to the St Francis trail in the Ocala National Forrest tomorrow.  I'm leaving from Downtown Orlando.  Can you give me some 
+tips on how I should plan this?
+
+2) What are the weather conditions expected to be there tomorrow?
+
+3) Can you show me any Youtube videos of people who have done this before?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

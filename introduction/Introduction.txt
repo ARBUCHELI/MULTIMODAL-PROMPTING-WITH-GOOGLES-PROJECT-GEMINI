@@ -1,0 +1,12 @@
+# INTRODUCTION
+--------------
+
+* Why Project Gemini is important
+---------------------------------
+
+Gemini --> AI platfor by Google, that helps shift the focus from traditional text prompting to a multimodal approach (adding image, voice, and other imputs to help improve your result).
+
+Advantages --> Access to Google's infrastructure, devices, and services.
+
+
+
